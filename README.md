@@ -1,6 +1,7 @@
 # S2
 
 g++ -std=c++11 S2_sim.cpp -o S2_sim
+
 ./S2_sim 
 
 ## 这个是一个键盘layout 我用了一个user手的size 算的测试用途码
